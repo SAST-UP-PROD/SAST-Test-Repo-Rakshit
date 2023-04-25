@@ -1,0 +1,13 @@
+{
+  "scans": {
+    "engines": [],
+    "template": "",
+    "exclusions": [],
+    "timeouts": {
+      "perLanguage": 490,
+      "perFile": 60
+    },
+    "maxFileSize": 1024,
+    "javaEngineGeneration": 2
+  }
+}
