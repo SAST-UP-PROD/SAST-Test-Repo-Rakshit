@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.owasp.encoder.Encode;
 
+
 @RestController
 @RequestMapping("CWE79")
 public class CWE79 {
