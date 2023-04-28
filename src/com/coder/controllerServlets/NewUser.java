@@ -38,7 +38,6 @@ public class NewUser extends HttpServlet {
         email = "";
     }
     
-    
     @Override
     public String getServletInfo() {
         return "Short description";
