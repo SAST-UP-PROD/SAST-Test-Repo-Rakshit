@@ -76,3 +76,4 @@ public class NewUser extends HttpServlet {
     }
 
 }
+
