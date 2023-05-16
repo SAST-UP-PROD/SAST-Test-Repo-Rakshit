@@ -87,10 +87,5 @@ public class Staff implements Serializable{
         this.UserName = UserName;
         this.Password = Password;
     }
-
-	@Override
-	public String toString() {
-		return "Staff [Id=" + Id + ", UserName=" + UserName + ", Password=" + Password + ", EMAIL=" + EMAIL + "]";
-	}
     
 }
